@@ -1,0 +1,12 @@
+{
+  "id": "noLoweredAutomaticWeaponDamage",
+  "name": "No Lowered Automatic Weapon Damage",
+  "author": "mrudat",
+  "version": "0.0.1",
+  "released": "2019-05-07",
+  "updated": "2019-05-07",
+  "description": "Removes the damage and range (damage dropoff) penalties for automatic weapon mods.",
+  "requires": ["unifiedPatchingFramework"],
+  "moduleLoader": "UPF",
+  "canHotLoad": true
+}
